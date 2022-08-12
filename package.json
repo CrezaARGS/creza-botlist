@@ -1,0 +1,15 @@
+{
+  "name": "raxe-botlist-main",
+  "version": "1.0.0",
+  "description": "Merhaba arkadaşlar sizlerle BotList botu mu paylaşmak istedim eğer seversiniz ne mutlu bana.",
+  "main": "raxe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.2.0"
+  }
+}
