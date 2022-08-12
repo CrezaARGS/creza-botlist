@@ -1,7 +1,7 @@
 ﻿echo off
-title Vortex BotList
+title Creza BotList
 cls
 :a
-node bot.js
+node raxe.js
 goto a
 pause
